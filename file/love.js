@@ -149,7 +149,7 @@
             ctx.scale(1.5, 1.5); // Adjust text position and scale
             ctx.font = "24px Verdana"; // Increase font size
             ctx.fillText("Click Me:) ", 50, -20); // Adjusted text position
-            ctx.fillText("Birthday Queen!", 50, 10); // Adjusted text position
+            ctx.fillText("🎈🎆!", 50, 10); // Adjusted text position
             ctx.restore();
         },
         clear: function() {
