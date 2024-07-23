@@ -72,5 +72,5 @@ window.onload = function() {
 };
 
 function redirectToNextPage() {
-    window.location.href = 'https://sumitxp90.github.io/test/'; // Change this URL to the desired link
+    window.location.href = 'https://sumitxp90.github.io/hb.2nd.page.live/'; // Change this URL to the desired link
 }
